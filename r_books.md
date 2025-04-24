@@ -15,4 +15,4 @@ Here's a list of cool and free R books.
 
 And many others at [Bookdown.org](https://bookdown.org/)!
 
-[Home](https://scott-d-tx.github.io/)
+[Home](https://badge-18.github.io/)
