@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trying SOmething New" 
+title: "Trying Something New" 
 author: "Scott Dickson"
 --- 
 
